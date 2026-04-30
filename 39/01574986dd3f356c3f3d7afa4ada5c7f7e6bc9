@@ -1,0 +1,23 @@
+internal/ui/home.go
+  220817d6f9bb7dfc 441-455,793-795,801,804,1136,1138-1141,1143,1145-1148,9407-9420,9422
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "3901574986dd3f356c3f3d7afa4ada5c7f7e6bc9",
+  "prompts": {
+    "220817d6f9bb7dfc": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9d4bf9b0-bb60-4006-9054-acc9ea921a9c",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Radek Adamiec",
+      "messages": [],
+      "total_additions": 55,
+      "total_deletions": 26,
+      "accepted_lines": 45,
+      "overriden_lines": 0
+    }
+  }
+}

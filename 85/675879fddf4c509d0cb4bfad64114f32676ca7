@@ -1,0 +1,25 @@
+internal/session/userconfig.go
+  220817d6f9bb7dfc 240-243,2700-2771
+internal/session/userconfig_cost_test.go
+  220817d6f9bb7dfc 88-200,339-384
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "85675879fddf4c509d0cb4bfad64114f32676ca7",
+  "prompts": {
+    "220817d6f9bb7dfc": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9d4bf9b0-bb60-4006-9054-acc9ea921a9c",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Radek Adamiec",
+      "messages": [],
+      "total_additions": 188,
+      "total_deletions": 0,
+      "accepted_lines": 188,
+      "overriden_lines": 0
+    }
+  }
+}
