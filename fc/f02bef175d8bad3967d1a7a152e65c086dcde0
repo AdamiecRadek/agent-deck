@@ -1,0 +1,25 @@
+internal/session/groups_test.go
+  220817d6f9bb7dfc 1858-1934
+internal/session/groups.go
+  220817d6f9bb7dfc 663-680
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "fcf02bef175d8bad3967d1a7a152e65c086dcde0",
+  "prompts": {
+    "220817d6f9bb7dfc": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9d4bf9b0-bb60-4006-9054-acc9ea921a9c",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Radek Adamiec",
+      "messages": [],
+      "total_additions": 95,
+      "total_deletions": 0,
+      "accepted_lines": 1868,
+      "overriden_lines": 0
+    }
+  }
+}
