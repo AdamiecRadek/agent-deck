@@ -1,0 +1,23 @@
+CHANGELOG.md
+  220817d6f9bb7dfc 10-13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "bbdbf87163cd196cabfe4678939359ab436c8496",
+  "prompts": {
+    "220817d6f9bb7dfc": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9d4bf9b0-bb60-4006-9054-acc9ea921a9c",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Radek Adamiec",
+      "messages": [],
+      "total_additions": 4,
+      "total_deletions": 0,
+      "accepted_lines": 1777,
+      "overriden_lines": 0
+    }
+  }
+}
