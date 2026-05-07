@@ -1,0 +1,24 @@
+internal/ui/help.go
+  220817d6f9bb7dfc 169-171,250-252
+skills/agent-deck/references/tui-reference.md
+  220817d6f9bb7dfc 27
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.1",
+  "base_commit_sha": "0c7ee2132b53f38d9775a229f0316bba0ad3b163",
+  "prompts": {
+    "220817d6f9bb7dfc": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9d4bf9b0-bb60-4006-9054-acc9ea921a9c",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Radek Adamiec",
+      "total_additions": 8,
+      "total_deletions": 4,
+      "accepted_lines": 6,
+      "overriden_lines": 0
+    }
+  }
+}
